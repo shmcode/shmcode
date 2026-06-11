@@ -3,8 +3,6 @@
 <ul>
   <li>👩🏻‍💻 Soy programadora y estratega de marketing digital.
 </li>
-  <li>🚀 Desarrollo Fullstack
-</li>
   <li>✨ Me apasiona trabajar en proyectos web que integren <b>tecnología, diseño y estrategia</b> para crear experiencias únicas, atractivas y efectivas.  
 </li>
 </ul>
